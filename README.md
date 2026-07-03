@@ -6,9 +6,9 @@
 
 | 分类 | 用途 | 当前仓库 |
 |---|---|---|
-| Games 游戏项目 | H5 小游戏、Canvas 游戏、互动玩法原型 | [`kitchengoewang-v2`](https://github.com/13860909640wzh-prog/kitchengoewang-v2) |
+| Games 游戏项目 | H5 小游戏、Canvas 游戏、互动玩法原型 | [`kitchengoewang-v2`](https://github.com/13860909640wzh-prog/kitchengoewang-v2), [`arpk`](https://github.com/13860909640wzh-prog/arpk), [`ERKE`](https://github.com/13860909640wzh-prog/ERKE), [`kinto`](https://github.com/13860909640wzh-prog/kinto) |
 | Portfolio 个人作品 | 作品集、项目展示、个人能力展示 | [`portfolio`](https://github.com/13860909640wzh-prog/portfolio) |
-| Websites 网站 / 页面 | 品牌页、活动页、展示页、HTML 页面作品 | [`arpk`](https://github.com/13860909640wzh-prog/arpk), [`ERKE`](https://github.com/13860909640wzh-prog/ERKE), [`kinto`](https://github.com/13860909640wzh-prog/kinto) |
+| Websites 网站 / 页面 | 品牌页、活动页、展示页、HTML 页面作品 | 暂无明确仓库 |
 | Lab 实验原型 | 早期测试、命名不完整、待整理项目 | [`-1.0`](https://github.com/13860909640wzh-prog/-1.0) |
 | Reference 参考案例库 | 后续生成内容前读取的案例、模板、灵感资料 | 待创建：`ref-reference-library` |
 | Work 工作项目 | 工作流程、客户方案、业务资料、内部工具 | 待创建：`work-*` |
@@ -29,6 +29,18 @@
   - 类型：HTML5 Canvas 竖屏跑酷小游戏
   - 技术：HTML / CSS / JavaScript / Canvas
   - 状态：已整理 README 和分类文档
+- [`arpk`](https://github.com/13860909640wzh-prog/arpk)
+  - 显示名：安暖跑酷
+  - 类型：HTML5 Canvas 跑酷小游戏变体
+  - 状态：建议保留为游戏变体，或并入主游戏仓库后归档
+- [`ERKE`](https://github.com/13860909640wzh-prog/ERKE)
+  - 显示名：大圣跑酷 ERKE 版本
+  - 类型：HTML5 Canvas 跑酷小游戏变体
+  - 状态：建议确认是否仍有独立用途
+- [`kinto`](https://github.com/13860909640wzh-prog/kinto)
+  - 显示名：大圣跑酷 kinto 版本
+  - 类型：HTML5 Canvas 跑酷小游戏变体
+  - 状态：建议确认是否仍有独立用途
 
 ### Portfolio 个人作品
 
@@ -36,19 +48,11 @@
   - 用途：个人作品集入口
   - 状态：需要继续补充项目说明、截图、作品链接
 
-### Websites 网站 / 页面
-
-- [`arpk`](https://github.com/13860909640wzh-prog/arpk)
-- [`ERKE`](https://github.com/13860909640wzh-prog/ERKE)
-- [`kinto`](https://github.com/13860909640wzh-prog/kinto)
-
-这三个仓库目前更像 HTML 页面 / 品牌展示页 / 网站作品。后续建议补充 README、截图、在线地址和项目说明。
-
 ### Lab 实验原型
 
 - [`-1.0`](https://github.com/13860909640wzh-prog/-1.0)
-  - 当前信息不足，先归入实验原型。
-  - 后续建议重命名为更清晰的英文仓库名。
+  - 当前是大圣跑酷早期测试集合。
+  - 如果没有继续使用，建议删除或改名为 `archive-dasheng-runner-prototype`。
 
 ## 参考案例库规划
 
@@ -93,4 +97,3 @@ ref-reference-library/
 - GitHub Topics 使用英文标签，方便搜索和筛选。
 - 成熟作品单独建仓库；零散素材可以先进入合集仓库。
 - 参考案例和模板单独放到 Reference / Templates，不混进正式作品。
-
