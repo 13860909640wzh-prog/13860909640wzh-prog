@@ -6,10 +6,10 @@
 
 | 分类 | 用途 | 当前仓库 |
 |---|---|---|
-| Games 游戏项目 | H5 小游戏、Canvas 游戏、互动玩法原型 | [`kitchengoewang-v2`](https://github.com/13860909640wzh-prog/kitchengoewang-v2), [`arpk`](https://github.com/13860909640wzh-prog/arpk), [`ERKE`](https://github.com/13860909640wzh-prog/ERKE), [`kinto`](https://github.com/13860909640wzh-prog/kinto) |
+| Games 游戏项目 | H5 小游戏、Canvas 游戏、互动玩法原型 | [`kitchengoewang-v2`](https://github.com/13860909640wzh-prog/kitchengoewang-v2), [`arpk`](https://github.com/13860909640wzh-prog/arpk) |
 | Portfolio 个人作品 | 作品集、项目展示、个人能力展示 | [`portfolio`](https://github.com/13860909640wzh-prog/portfolio) |
 | Websites 网站 / 页面 | 品牌页、活动页、展示页、HTML 页面作品 | 暂无明确仓库 |
-| Lab 实验原型 | 早期测试、命名不完整、待整理项目 | [`-1.0`](https://github.com/13860909640wzh-prog/-1.0) |
+| Lab 实验原型 | 早期测试、命名不完整、待整理项目 | 暂无活动仓库 |
 | Reference 参考案例库 | 后续生成内容前读取的案例、模板、灵感资料 | 待创建：`ref-reference-library` |
 | Work 工作项目 | 工作流程、客户方案、业务资料、内部工具 | 待创建：`work-*` |
 | Decks PPT / 演示 | 商业计划书、汇报、课程、路演、产品介绍 | 待创建：`deck-*` / `ppt-*` |
@@ -32,15 +32,7 @@
 - [`arpk`](https://github.com/13860909640wzh-prog/arpk)
   - 显示名：安暖跑酷
   - 类型：HTML5 Canvas 跑酷小游戏变体
-  - 状态：建议保留为游戏变体，或并入主游戏仓库后归档
-- [`ERKE`](https://github.com/13860909640wzh-prog/ERKE)
-  - 显示名：大圣跑酷 ERKE 版本
-  - 类型：HTML5 Canvas 跑酷小游戏变体
-  - 状态：建议确认是否仍有独立用途
-- [`kinto`](https://github.com/13860909640wzh-prog/kinto)
-  - 显示名：大圣跑酷 kinto 版本
-  - 类型：HTML5 Canvas 跑酷小游戏变体
-  - 状态：建议确认是否仍有独立用途
+  - 状态：已保留为独立游戏变体
 
 ### Portfolio 个人作品
 
@@ -48,11 +40,13 @@
   - 用途：个人作品集入口
   - 状态：需要继续补充项目说明、截图、作品链接
 
-### Lab 实验原型
+## 清理记录
 
-- [`-1.0`](https://github.com/13860909640wzh-prog/-1.0)
-  - 当前是大圣跑酷早期测试集合。
-  - 如果没有继续使用，建议删除或改名为 `archive-dasheng-runner-prototype`。
+2026-07-03 已清理以下重复或无继续维护计划的仓库：
+
+- `-1.0`：早期测试和原型文件集合。
+- `ERKE`：大圣跑酷重复变体。
+- `kinto`：大圣跑酷重复变体。
 
 ## 参考案例库规划
 

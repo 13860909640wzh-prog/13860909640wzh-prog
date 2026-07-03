@@ -10,10 +10,7 @@
 |---|---|---|---|
 | `kitchengoewang-v2` | Games 游戏项目 | HTML5 Canvas 竖屏跑酷小游戏 | 后续可重命名为 `game-dasheng-runner` |
 | `portfolio` | Portfolio 个人作品 | 仓库名和 README 指向作品集 | 补充作品目录、截图、在线链接 |
-| `arpk` | Games 游戏项目 | `index.html` 标题为“安暖跑酷”，使用跑酷游戏资源 | 建议确认是否保留为独立变体 |
-| `ERKE` | Games 游戏项目 | `index.html` 标题为“大圣跑酷”，使用跑酷游戏资源 | 建议确认是否保留为独立变体 |
-| `kinto` | Games 游戏项目 | `index.html` 标题为“大圣跑酷”，使用跑酷游戏资源 | 建议确认是否保留为独立变体 |
-| `-1.0` | Lab 实验原型 | 多个测试 HTML：动态背景、云朵、修复版、完整测试版 | 建议删除或改名归档 |
+| `arpk` | Games 游戏项目 | `index.html` 标题为“安暖跑酷”，使用跑酷游戏资源 | 保留为独立游戏变体 |
 
 ## 应补充的仓库元信息
 
@@ -63,51 +60,15 @@ web-game
 github-pages
 ```
 
-### `ERKE`
+## 已清理仓库记录
 
-- 推荐分类：Games / HTML5 Canvas 跑酷小游戏
-- 推荐显示名：大圣跑酷 ERKE 版本
-- 推荐 Topics：
+以下仓库已在 2026-07-03 删除，不再作为当前分类入口：
 
-```text
-html5-game
-canvas-game
-javascript-game
-runner-game
-mobile-game
-web-game
-github-pages
-```
-
-### `kinto`
-
-- 推荐分类：Games / HTML5 Canvas 跑酷小游戏
-- 推荐显示名：大圣跑酷 kinto 版本
-- 推荐 Topics：
-
-```text
-html5-game
-canvas-game
-javascript-game
-runner-game
-mobile-game
-web-game
-github-pages
-```
-
-### `-1.0`
-
-- 推荐分类：Lab / 实验原型
-- 推荐显示名：待整理项目
-- 推荐 Topics：
-
-```text
-lab
-prototype
-experiment
-html-css-javascript
-archive-candidate
-```
+| 仓库 | 原分类 | 清理原因 |
+|---|---|---|
+| `-1.0` | Lab 实验原型 | 早期测试文件集合，命名不适合长期维护 |
+| `ERKE` | Games 游戏项目 | 与大圣跑酷项目重复度高 |
+| `kinto` | Games 游戏项目 | 与大圣跑酷项目重复度高 |
 
 ## 后续建议创建的分类仓库
 
